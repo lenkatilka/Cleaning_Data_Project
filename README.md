@@ -5,6 +5,7 @@
 
 ## =============================================================================
 ## The following needs to be done PRIOR to running the script:
+### - install packages "tidyr" and "dplyr"
 ### - set your working directory to UCI HAR Dataset
 ### - in R console / RStudio console type "source(run_analysis.R)"
 ### - submit script by typing "run_analysis()"
